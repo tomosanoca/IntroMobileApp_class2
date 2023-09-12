@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">inclass2Demo</string>
+    <string name="txtTitle">Bruschetta</string>
+    <string name="imgBruschetta">Bruschetta</string>
+    <string name="txtShowRecipe">Recipe</string>
+    <string name="txtRecipeTitle">Bruscetta Recipe</string>
+    <string name="txtRecipeIngre">Ingredients</string>
+    <string name="txtIngre1">4 plum tomatoes</string>
+    <string name="txtIngre2">6 basil leaves</string>
+    <string name="txtIngre3">3 garlic cloves, chopped</string>
+    <string name="txtIngre4">3 TB olive oil</string>
+    <string name="txtDirecTitle">Directions</string>
+    <string name="txtDirec1">Combine the ingredients and add salt to taste. Top French bread slices with mixture.</string>
+</resources>
